@@ -8,3 +8,11 @@ https://openreview.net/forum?id=HkpYwMZRb
 Report.pdf contains our final report
 
 Interactive_Report.ipynb contains our code
+
+Team name:
+- The Dropouts
+
+Created by:
+- Hamish Flynn
+- Richard Cann
+- Aaron Tasker
