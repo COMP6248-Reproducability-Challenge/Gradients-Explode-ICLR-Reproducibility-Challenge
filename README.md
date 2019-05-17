@@ -4,3 +4,7 @@ This is an attempt to reproduce the results of the "Gradients Explode - Deep Net
 The original paper can be found at:
 
 https://openreview.net/forum?id=HkpYwMZRb
+
+Report.pdf contains our final report
+
+Interactive_Report.ipynb contains our code
